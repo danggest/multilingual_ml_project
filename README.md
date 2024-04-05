@@ -17,3 +17,7 @@ Download the data from the following link: [data](https://drive.google.com/file/
 Preprocessing and base model training is explained in `base_model_pipeline_processing_training.ipynb` and the error simulation and correction is explained in `error_simulation_correction_pipeline.ipynb`.
 
 Custom classes are done in the `corrections`, `corruptions` and `util` folders.
+
+## Pipeline
+
+![Alt text](datapipeline.png "a title")
